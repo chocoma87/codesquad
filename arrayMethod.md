@@ -13,6 +13,8 @@ arr1.concat(arr2)
 
 
 
+
+
 #array.join
 배열에 있는 모든 엘리먼트를 하나의 스트링으로 만든다.
 
